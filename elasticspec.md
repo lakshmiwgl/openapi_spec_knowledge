@@ -1,4 +1,4 @@
-open api spec for elastic search
+open api spec for elastic search given below
 {
   "openapi": "3.0.1",
   "info": {
